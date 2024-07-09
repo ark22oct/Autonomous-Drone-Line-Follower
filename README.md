@@ -1,6 +1,6 @@
 # Autonomous-Drone-Line-Follower
 
-This repository contains the source code and documentation for an autonomous drone line-following project. The project aims to leverage deep learning techniques to enable a drone to autonomously follow a predefined path.
+This repository contains the source code and documentation for an autonomous drone line-following project. The project aims to leverage deep learning techniques to enable a drone to autonomously follow a predefined path. Feel free to reference, but avoid copying.
 
 # Getting Started
 ## To replicate this project, follow these steps:
